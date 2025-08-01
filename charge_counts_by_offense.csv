@@ -1,0 +1,9 @@
+charge_degree,offense_category,count
+felony,drug,651
+felony,other,223
+felony,property,904
+felony,violent,153
+misdemeanor,drug,5663
+misdemeanor,other,6164
+misdemeanor,property,4346
+misdemeanor,violent,2141
